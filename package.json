@@ -1,0 +1,23 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "my weather api",
+  "main": "src/app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.2",
+    "@types/sequelize": "^4.28.20",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.7.0",
+    "pg": "^8.11.3",
+    "sequelize": "^6.35.2",
+    "sequelize-typescript": "^2.1.6"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
